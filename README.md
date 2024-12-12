@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @D0pExD  
+- 👀 I’m interested in game development, FiveM scripting, creating interactive web panels, and adventurous travel itineraries.  
+- 🌱 I’m currently learning advanced Lua scripting, Vue.js, Type Script and building optimized server solutions for QBoX-based environments.  
+- 💞️ I’m looking to collaborate on FiveM resources, web-based server management tools, and creative problem-solving in game scripting.  
+- 📫 How to reach me: Discord: donothope
+- 😄 Pronouns: He/Him  
+- ⚡ Fun fact: I love designing unique server features, vlogging action-packed activities, and finding solutions to technical challenges with a creative flair!  
