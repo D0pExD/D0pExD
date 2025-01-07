@@ -12,7 +12,7 @@ I'm **@D0pExD**, a passionate developer, gamer, and adventurer at heart. I speci
 - **🌱 Currently Learning**: Advanced Lua scripting, Vue.js, TypeScript, and building optimized server solutions for QBoX-based environments.  
 - **💞 Looking to Collaborate On**: FiveM resources, web-based server management tools, and creative problem-solving in game scripting.  
 - **📫 Contact Me**:  
-  - Discord: `donothope`  
+- Discord: [donothope](https://discord.com/users/1147884253263167610)  
 - **😄 Pronouns**: He/Him  
 - **⚡ Fun Fact**: I love designing unique server features, vlogging action-packed activities, and solving technical challenges with a creative flair!  
 
