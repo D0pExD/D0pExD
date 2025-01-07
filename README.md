@@ -35,21 +35,6 @@ I'm **@D0pExD**, a passionate developer, gamer, and adventurer at heart. I speci
 
 ---
 
-## 🌟 Projects  
-
-- **🎮 [FiveM Custom Scripts](#)**: Enhance your server with unique, optimized, and creative features.  
-- **🖥️ [Interactive Web Panels](#)**: Tools for streamlined server management.  
-- **⚙️ [QBoX Optimized Solutions](#)**: Server-side solutions tailored for QBoX environments.  
-
----
-
-## 📚 Fun Projects  
-
-- **🎥 Travel Vlogs**: Capturing action-packed adventures and exploring new horizons.  
-- **🎮 Game Mechanics Tweaks**: Creating mods and tweaks to enhance gaming experiences.  
-
----
-
 ### 🤝 Let's Connect!  
 
 Feel free to reach out for collaborations, questions, or just to say hi. 🚀  
